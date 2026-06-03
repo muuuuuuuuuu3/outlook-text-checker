@@ -26,6 +26,9 @@
     <Host Name="Mail"/>
   </Hosts>
 
+  <!-- 必要な権限 -->
+  <Permissions>ReadWriteItem</Permissions>
+
   <!-- 必要なOutlookのバージョン -->
   <Requirements>
     <Sets>
