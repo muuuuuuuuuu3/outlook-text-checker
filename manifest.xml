@@ -16,7 +16,7 @@
   <DisplayName DefaultValue="誤字チェッカー"/>
   <Description DefaultValue="メール送信前に誤字をチェックするアドインです"/>
 
-  <!-- アイコン画像（後で用意） -->
+  <!-- アイコン画像 -->
   <IconUrl DefaultValue="https://muuuuuuuuuu3.github.io/outlook-text-checker/icon32.png"/>
   <HighResolutionIconUrl DefaultValue="https://muuuuuuuuuu3.github.io/outlook-text-checker/icon64.png"/>
   <SupportUrl DefaultValue="https://github.com/muuuuuuuuuu3/outlook-text-checker"/>
@@ -38,7 +38,6 @@
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
         <SourceLocation DefaultValue="https://muuuuuuuuuu3.github.io/outlook-text-checker/taskpane.html"/>
-        <RequestedHeight>200</RequestedHeight>
       </DesktopSettings>
     </Form>
   </FormSettings>
